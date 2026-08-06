@@ -1,0 +1,26 @@
+# Compiled executables
+bin/
+
+# Object files
+*.o
+*.obj
+
+# Windows executables
+*.exe
+
+# Debug symbols
+*.pdb
+
+# macOS files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
