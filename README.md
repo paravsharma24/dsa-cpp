@@ -37,6 +37,7 @@ dsa-cpp/
 | 1 | Two Sum | Easy | O(n²) | O(1) |
 | 9 | Palindrome Number | Easy | O(log₁₀ n) | O(1) |
 | 13 | Roman to Integer | Easy | O(n) | O(1) |
+| 3345 | Smallest Divisible Digit Product | Easy | O(k) | O(1) |
 
 *(This table will be updated as I solve more problems.)*
 

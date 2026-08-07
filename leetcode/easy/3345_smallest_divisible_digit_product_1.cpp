@@ -29,10 +29,5 @@ while(true) {
 
 }
 
-
-
-    // cout << (temp /= 10) << endl;
-    // cout << temp;
-
     return 0;
 }
