@@ -56,7 +56,7 @@ dsa-cpp/
 ## 📈 Progress
 
 - ✅ Easy: 5
-- ⏳ Medium: 0
+- ⏳ Medium: 1
 - ⏳ Hard: 0
 
 ---
